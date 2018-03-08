@@ -1,0 +1,2 @@
+brew "gcc"
+brew "libjpeg"
